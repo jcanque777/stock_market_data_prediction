@@ -13,5 +13,8 @@ Random Forests
 SVR
 
 Time Series
+-Autocorrelation
+-AR, MA, ARIMA Models
+-Prophet
 
 Prophet
